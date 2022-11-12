@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @belltagy
-- 👀 I’m interested in Python, JavaScript
+- 👀 I’m interested in Python, Django, JavaScript
 - 🌱 I’m currently learning DEVOPS
 - 📫 How to reach me mmk.mmk0@gmail.com
 
