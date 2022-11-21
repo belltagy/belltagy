@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @belltagy
 - 👀 I’m interested in Python, Django, JavaScript
-- 🌱 I’m currently learning DEVOPS
+- 🌱 I’m currently building  DEVOPS piplines
 - 📫 How to reach me mmk.mmk0@gmail.com
 
 <!---
