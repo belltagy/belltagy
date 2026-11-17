@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @belltagy
 - 👀 I’m interested in Python, Django, JavaScript, AI Agents
-- 🌱 I’m currently building  DEVOPS piplines
+- 🌱 I’m currently building  DEVOPS piplines, AI agents
 - 📫 How to reach me mmk.mmk0@gmail.com
 
 <!---
